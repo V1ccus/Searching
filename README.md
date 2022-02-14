@@ -1,1 +1,1 @@
-# Searching
+Sequential Searching & Binary Searching
